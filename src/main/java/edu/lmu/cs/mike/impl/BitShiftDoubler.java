@@ -10,7 +10,7 @@ public class BitShiftDoubler implements IntegerDoubler {
     return 0;
   }
 
-  public long doDouble2(int i) {
-    return 0;
-  }
+//   public long doDouble2(int i) {
+//     return 0;
+//   }
 }
